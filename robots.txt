@@ -1,9 +1,3 @@
-User-agent: GPTBot
-User-agent: OAI-SearchBot
-User-agent: ClaudeBot
-User-agent: Claude-SearchBot
-User-agent: PerplexityBot
-User-agent: Google-Extended
 User-agent: *
 Content-Signal: search=yes, ai-input=yes, ai-train=yes
 Allow: /
